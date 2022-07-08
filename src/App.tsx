@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          games.domain/deck
+          hosting at: games.domain/deck
         </p>
         <a
           className="App-link"
